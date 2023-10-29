@@ -1,1 +1,14 @@
-# ECE444-F2023-Lab5
+# Kartikey Sachdeva 
+
+This repo is a clone of https://github.com/mjhea0/flaskr-tdd
+
+## RubberDucks Unit Testing 
+
+https://github.com/ECE444-2023Fall/project-1-web-application-design-group27-rubberducks/blob/testtingAuthentication/backend/tests/test_app/test_auth.py
+
+https://github.com/ECE444-2023Fall/project-1-web-application-design-group27-rubberducks/blob/testtingAuthentication/backend/tests/test_app/test_events.py
+
+
+## Pros and Cons of TDD
+
+Test-Driven Development (TDD) is a software development approach that comes with both compelling advantages and some notable drawbacks. On the positive side, TDD emphasizes the creation of robust, high-quality code by requiring developers to write tests before implementing the actual code. This practice ensures that the software meets specified requirements and functions correctly from the outset, resulting in a cleaner, more reliable codebase with fewer bugs. One of the significant benefits of TDD is its ability to detect issues early in the development process. By identifying and addressing problems at their inception, TDD prevents them from accumulating and becoming more challenging to resolve later. Moreover, TDD encourages better software design practices by promoting modularity and maintainability. Developers are incentivized to think about how their code components interact, fostering a more thoughtful and sustainable architecture. Another key advantage of TDD is the efficiency it brings to the debugging process. Failing tests serve as precise indicators of issues, making it easier for developers to pinpoint and rectify problems swiftly. Additionally, TDD establishes benchmarks for the software's behavior, ensuring that it consistently meets predefined criteria. However, TDD is not without its drawbacks. It demands more time and effort upfront, as tests must be created before writing the actual code. This can slow down the development process, which may be a concern in fast-paced projects with tight deadlines. Furthermore, TDD incurs a maintenance overhead, as the test suite requires constant updates to align with code changes. There's also a risk of overengineering, as developers might make code unnecessarily complex to make it more testable. Lastly, passing tests do not guarantee a completely bug-free application due to possible gaps in testing and errors within the tests themselves, potentially creating a false sense of security that could lead to issues later on. In summary, Test-Driven Development offers substantial benefits such as early bug detection, improved code quality, and clear benchmarks for software behavior. However, it comes with trade-offs, including increased upfront time and effort, ongoing maintenance, and the risk of overengineering. Choosing to adopt TDD should consider the specific needs and constraints of the project at hand.

@@ -4,8 +4,7 @@ This repo is a clone of https://github.com/mjhea0/flaskr-tdd
 
 ## RubberDucks Unit Testing 
 
-[[https://github.com/ECE444-2023Fall/project-1-web-application-design-group27-rubberducks/blob/main/backend/tests/test_app/test_auth.py](https://github.com/ECE444-2023Fall/project-1-web-application-design-group27-rubberducks/blob/ce19ac48ccb21ed16a54061bef91874cfeae3a36/backend/tests/test_app/test_events.py#L8C1-L22C1)
-](https://github.com/ECE444-2023Fall/project-1-web-application-design-group27-rubberducks/blob/ce19ac48ccb21ed16a54061bef91874cfeae3a36/backend/tests/test_app/test_events.py#L8C1-L36C69)
+(https://github.com/ECE444-2023Fall/project-1-web-application-design-group27-rubberducks/blob/ce19ac48ccb21ed16a54061bef91874cfeae3a36/backend/tests/test_app/test_events.py#L8C1-L36C69)
 
 https://github.com/ECE444-2023Fall/project-1-web-application-design-group27-rubberducks/blob/ce19ac48ccb21ed16a54061bef91874cfeae3a36/backend/tests/test_app/test_auth.py#L14C1-L23C1
 
